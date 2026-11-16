@@ -1,126 +1,327 @@
 <div align="center">
 
-  # 💫 Hi there, I'm Akash Lodhi 👋
-
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=620&lines=Full+Stack+Software+Developer;AI+%26+ML+Solutions+Engineer;Building+Scalable+Modern+Web+Apps;TypeScript+%7C+Python+%7C+React+%7C+FastAPI" alt="Typing SVG" />
-  </a>
-
-  <p align="center">
-    <b>Computer Science & AI/DS Student • Full-Stack Developer • Problem Solver</b>
-  </p>
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-lodhi-9a1219313/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lodhiakash286@gmail.com)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6ajeUsjR)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/akaashxlodhii)
-  [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pin.it/67Bg5mR7u)
-  [![Profile Views](https://komarev.com/ghpvc/?username=Devcoderakash&color=61afef&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Devcoderakash)
+  <!-- ==================== TOP NAVIGATION / BRANDING HEADER ==================== -->
+  <a name="overview"></a>
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Devcoderakash">
+          <img src="https://img.shields.io/badge/%E2%9A%A1_Devcoderakash-080811?style=for-the-badge&logo=github&logoColor=8B5CF6" alt="Devcoderakash" />
+        </a>
+        <a href="#overview">
+          <img src="https://img.shields.io/badge/Overview-151527?style=for-the-badge&logoColor=C4B5FD" alt="Overview" />
+        </a>
+        <a href="#about-me">
+          <img src="https://img.shields.io/badge/About-151527?style=for-the-badge&logoColor=C4B5FD" alt="About" />
+        </a>
+        <a href="#tech-stack">
+          <img src="https://img.shields.io/badge/Tech_Stack-151527?style=for-the-badge&logoColor=C4B5FD" alt="Tech Stack" />
+        </a>
+        <a href="#featured-projects">
+          <img src="https://img.shields.io/badge/Projects-151527?style=for-the-badge&logoColor=C4B5FD" alt="Projects" />
+        </a>
+        <a href="#github-analytics">
+          <img src="https://img.shields.io/badge/Analytics-151527?style=for-the-badge&logoColor=C4B5FD" alt="Analytics" />
+        </a>
+        <a href="#achievements-experience">
+          <img src="https://img.shields.io/badge/Achievements-151527?style=for-the-badge&logoColor=C4B5FD" alt="Achievements" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
----
+<br/>
 
+<!-- ==================== DASHBOARD HEADER: SIDEBAR + HERO ==================== -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <!-- LEFT PROFILE SIDEBAR CARD -->
+    <td width="34%" valign="top" align="center">
+      <table width="100%" border="0" cellpadding="10" cellspacing="0">
+        <tr>
+          <td align="center">
+            <a href="https://github.com/Devcoderakash">
+              <img src="https://avatars.githubusercontent.com/u/182425110?v=4" width="130" alt="Akash Lodhi" style="border-radius: 50%; max-width: 100%;" />
+            </a>
+            <br/><br/>
+            <h3 align="center" style="margin: 0; padding: 0;"><b>Akash Lodhi</b></h3>
+            <p align="center" style="margin: 4px 0 0 0;">
+              <code>@Devcoderakash</code> &nbsp;•&nbsp; <code>he/him</code>
+            </p>
+            <p align="center">
+              <b>AI & Web Developer</b><br/>
+              <sub>Computer Science (AI & DS) Student</sub>
+            </p>
+            <p align="center">
+              <sub><i>"Building scalable, user-centric software across modern web architectures and machine learning systems."</i></sub>
+            </p>
+            <hr/>
+            <p align="left">
+              📍 <b>Location:</b> India<br/>
+              📧 <b>Email:</b> <a href="mailto:lodhiakash286@gmail.com">lodhiakash286@gmail.com</a><br/>
+              💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/akash-lodhi-9a1219313/">in/akash-lodhi-9a1219313</a><br/>
+              🧠 <b>LeetCode:</b> <a href="https://leetcode.com/u/akash_lodhi23/">akash_lodhi23</a><br/>
+              ⚡ <b>HackerRank:</b> <a href="https://www.hackerrank.com/profile/lodhiakash286">lodhiakash286</a><br/>
+              💬 <b>Discord:</b> <a href="https://discord.gg/6ajeUsjR">Community Server</a>
+            </p>
+            <hr/>
+            <!-- PROFILE STATS & VIEWS -->
+            <p align="center">
+              <a href="https://github.com/Devcoderakash?tab=followers">
+                <img src="https://img.shields.io/github/followers/Devcoderakash?style=flat-square&color=8B5CF6&labelColor=151527" alt="Followers" />
+              </a>
+              <a href="https://github.com/Devcoderakash?tab=following">
+                <img src="https://img.shields.io/badge/following-2-8B5CF6?style=flat-square&labelColor=151527" alt="Following" />
+              </a>
+              <br/>
+              <a href="https://github.com/Devcoderakash">
+                <img src="https://komarev.com/ghpvc/?username=Devcoderakash&color=8B5CF6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+              </a>
+            </p>
+            <hr/>
+            <!-- VERIFIED GITHUB ACHIEVEMENTS PREVIEW -->
+            <p align="center">
+              <b>🏆 Verified Achievements</b><br/><br/>
+              <a href="https://github.com/Devcoderakash?tab=achievements">
+                <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="46" alt="Pull Shark" title="Pull Shark" />
+              </a>
+              &nbsp;
+              <a href="https://github.com/Devcoderakash?tab=achievements">
+                <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="46" alt="YOLO" title="YOLO" />
+              </a>
+              &nbsp;
+              <a href="https://github.com/Devcoderakash?tab=achievements">
+                <img src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png" width="46" alt="Quickdraw" title="Quickdraw" />
+              </a>
+            </p>
+          </td>
+        </tr>
+      </table>
+    </td>
+
+    <!-- RIGHT HERO & DASHBOARD OVERVIEW -->
+    <td width="66%" valign="top">
+      <table width="100%" border="0" cellpadding="10" cellspacing="0">
+        <tr>
+          <td>
+            <p style="margin: 0;">👋 <i>Hi there, I'm</i></p>
+            <h1 style="margin: 6px 0 4px 0;">Akash Lodhi</h1>
+            <h3 style="margin: 0 0 10px 0; color: #8B5CF6;">Building Scalable Modern Web Apps</h3>
+            <p>
+              <b>Computer Science & AI/DS Student • Full-Stack Developer • Problem Solver</b>
+            </p>
+            <p>
+              <a href="https://readme-typing-svg.demolab.com">
+                <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=8B5CF6&multiline=true&width=530&height=50&lines=Building+Scalable+Modern+Web+Apps;AI+%26+ML+Solutions+Engineer;TypeScript+%E2%80%A2+Python+%E2%80%A2+React+%E2%80%A2+FastAPI;Passionate+about+Impactful+Open+Source" alt="Typing SVG" />
+              </a>
+            </p>
+            <p>
+              <a href="https://www.linkedin.com/in/akash-lodhi-9a1219313/">
+                <img src="https://img.shields.io/badge/Connect_With_Me-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect With Me" />
+              </a>
+              &nbsp;
+              <a href="mailto:lodhiakash286@gmail.com?subject=Resume%20Request%20-%20Akash%20Lodhi">
+                <img src="https://img.shields.io/badge/Request_Resume-151527?style=for-the-badge&logo=googledocs&logoColor=C4B5FD" alt="Request Resume" />
+              </a>
+            </p>
+            <hr/>
+            <!-- QUICK STATISTICS GRID (4 CARDS) -->
+            <h4 style="margin-bottom: 8px;">⚡ Quick Statistics</h4>
+            <table width="100%" border="0" cellpadding="6" cellspacing="0">
+              <tr>
+                <td width="50%" align="center">
+                  <a href="https://github.com/Devcoderakash?tab=repositories">
+                    <img src="https://img.shields.io/badge/Repositories-19-151527?style=flat-square&logo=github&logoColor=C4B5FD" alt="Repositories: 19" />
+                  </a>
+                </td>
+                <td width="50%" align="center">
+                  <a href="#featured-projects">
+                    <img src="https://img.shields.io/badge/Featured_Projects-5-151527?style=flat-square&logo=target&logoColor=8B5CF6" alt="Featured Projects: 5" />
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td width="50%" align="center">
+                  <a href="https://github.com/Devcoderakash">
+                    <img src="https://img.shields.io/github/stars/Devcoderakash?style=flat-square&color=8B5CF6&labelColor=151527" alt="GitHub Stars" />
+                  </a>
+                </td>
+                <td width="50%" align="center">
+                  <a href="https://github.com/Devcoderakash">
+                    <img src="https://img.shields.io/badge/Forks-0-151527?style=flat-square&logo=git-pull-request&logoColor=C4B5FD" alt="Forks: 0" />
+                  </a>
+                </td>
+              </tr>
+            </table>
+            <br/>
+            <!-- CURRENTLY FOCUSED ON -->
+            <table width="100%" border="0" cellpadding="8" cellspacing="0">
+              <tr>
+                <td>
+                  <h4 style="margin: 0 0 8px 0;">🎯 Currently Focused On</h4>
+                  <ul style="margin: 0; padding-left: 18px;">
+                    <li>🚀 <b>Building real-world projects:</b> Architecting enterprise SaaS and billing systems (StockIN, Akash Bill Book).</li>
+                    <li>🧠 <b>Exploring AI & LLM applications:</b> Integrating Google Gemini API & intelligent automation workflows.</li>
+                    <li>🏗️ <b>Improving system design skills:</b> Designing scalable microservices, resilient APIs, and state systems.</li>
+                    <li>🌐 <b>Contributing to open source:</b> Shipping production-grade code, tooling, and collaborating with developers.</li>
+                  </ul>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ==================== ABOUT ME ==================== -->
+<a name="about-me"></a>
 ### 👨‍💻 About Me
 
-I am a Computer Science student specializing in **Artificial Intelligence & Data Science** and a software developer passionate about crafting robust, scalable, and user-centric applications. With hands-on experience spanning end-to-end web engineering, machine learning pipelines, and cloud deployments, I focus on building production-grade solutions that deliver tangible impact.
+<table width="100%" border="0" cellpadding="12" cellspacing="0">
+  <tr>
+    <td>
+      <p>
+        I am a Computer Science student specializing in <b>Artificial Intelligence & Data Science</b> and a software developer passionate about crafting robust, scalable, and user-centric applications. With hands-on experience spanning end-to-end web engineering, machine learning pipelines, and cloud deployments, I focus on building production-grade solutions that deliver tangible impact.
+      </p>
+      <table width="100%" border="0" cellpadding="6" cellspacing="0">
+        <tr>
+          <td width="50%" valign="top">
+            🔭 <b>What I'm Working On:</b><br/>
+            <sub>Enterprise SaaS platforms, AI-driven automation tools, and real-time web applications.</sub>
+          </td>
+          <td width="50%" valign="top">
+            🎓 <b>Education:</b><br/>
+            <sub>B.Tech in Computer Science (Artificial Intelligence & Data Science).</sub>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" valign="top">
+            💡 <b>Core Interests:</b><br/>
+            <sub>Full-Stack Architecture, AI/LLM Integration (Gemini API), and High-Performance Web Services.</sub>
+          </td>
+          <td width="50%" valign="top">
+            ⚡ <b>Strengths:</b><br/>
+            <sub>Clean code principles, modern TypeScript/React ecosystems, RESTful API design, and intuitive UX.</sub>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" valign="top">
+            💬 <b>Ask Me About:</b><br/>
+            <sub>React 19, TypeScript, Python, FastAPI, Supabase, ML regression models, and prompt engineering.</sub>
+          </td>
+          <td width="50%" valign="top">
+            📫 <b>Let's Connect:</b><br/>
+            <sub>Reach out via <a href="https://www.linkedin.com/in/akash-lodhi-9a1219313/">LinkedIn</a> or <a href="mailto:lodhiakash286@gmail.com">Email</a> for collaborations.</sub>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-- 🔭 **What I'm Working On**: Enterprise SaaS platforms, AI-driven automation tools, and real-time web applications.
-- 🎓 **Education**: Computer Science (AI & Data Science).
-- 💡 **Core Interests**: Full-Stack Architecture, AI/LLM Integration (Gemini API), and High-Performance Web Services.
-- ⚡ **Strengths**: Clean code principles, modern TypeScript/React ecosystems, RESTful API design, and intuitive UX.
-- 💬 **Ask Me About**: React 19, TypeScript, Python, FastAPI, Supabase, ML regression models, and prompt engineering.
-- 📫 **Let's Connect**: Reach out via [LinkedIn](https://www.linkedin.com/in/akash-lodhi-9a1219313/) or [Email](mailto:lodhiakash286@gmail.com).
+<br/>
 
----
-
+<!-- ==================== TECH STACK & TOOLS ==================== -->
+<a name="tech-stack"></a>
 ### 🛠️ Tech Stack & Tools
 
-<table>
+<table width="100%" border="0" cellpadding="8" cellspacing="0">
   <tr>
-    <td align="left" width="160"><b>Languages</b></td>
+    <th align="left" width="22%">Category</th>
+    <th align="left" width="78%">Technologies & Frameworks</th>
+  </tr>
+  <tr>
+    <td align="left"><b>Languages</b></td>
     <td>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+      <img src="https://img.shields.io/badge/TypeScript-151527?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/JavaScript-151527?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Python-151527?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+      <img src="https://img.shields.io/badge/C%2B%2B-151527?style=flat-square&logo=c%2B%2B&logoColor=00599C" alt="C++" />
+      <img src="https://img.shields.io/badge/C-151527?style=flat-square&logo=c&logoColor=A8B9CC" alt="C" />
+      <img src="https://img.shields.io/badge/Java-151527?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java" />
+      <img src="https://img.shields.io/badge/SQL-151527?style=flat-square&logo=postgresql&logoColor=4479A1" alt="SQL" />
     </td>
   </tr>
   <tr>
     <td align="left"><b>Frontend</b></td>
     <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+      <img src="https://img.shields.io/badge/React-151527?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-151527?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-151527?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/HTML5-151527?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-151527?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
+      <img src="https://img.shields.io/badge/Vite-151527?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
     </td>
   </tr>
   <tr>
     <td align="left"><b>Backend & AI</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI" />
+      <img src="https://img.shields.io/badge/Node.js-151527?style=flat-square&logo=node.js&logoColor=339933" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express-151527?style=flat-square&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/FastAPI-151527?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Google_Gemini-151527?style=flat-square&logo=google&logoColor=8E75C2" alt="Google Gemini" />
     </td>
   </tr>
   <tr>
     <td align="left"><b>Databases & Cloud</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-      <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
-      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
-      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+      <img src="https://img.shields.io/badge/Supabase-151527?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+      <img src="https://img.shields.io/badge/MongoDB-151527?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/MySQL-151527?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Firebase-151527?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+      <img src="https://img.shields.io/badge/Vercel-151527?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+      <img src="https://img.shields.io/badge/Render-151527?style=flat-square&logo=render&logoColor=46E3B7" alt="Render" />
+      <img src="https://img.shields.io/badge/Google_Cloud-151527?style=flat-square&logo=google-cloud&logoColor=4285F4" alt="Google Cloud" />
+      <img src="https://img.shields.io/badge/Azure-151527?style=flat-square&logo=microsoftazure&logoColor=0078D4" alt="Azure" />
     </td>
   </tr>
   <tr>
     <td align="left"><b>DevOps & Tools</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-      <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+      <img src="https://img.shields.io/badge/Git-151527?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-151527?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/VS_Code-151527?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
+      <img src="https://img.shields.io/badge/Postman-151527?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman" />
+      <img src="https://img.shields.io/badge/Canva-151527?style=flat-square&logo=canva&logoColor=00C4CC" alt="Canva" />
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-### 🚀 Featured Repositories
+<!-- ==================== FEATURED PROJECTS ==================== -->
+<a name="featured-projects"></a>
+### 🚀 Featured Projects
 
 <div align="center">
-  <table border="0">
+  <table border="0" cellpadding="4" cellspacing="0">
     <tr>
       <td>
         <a href="https://github.com/Devcoderakash/StockIN">
-          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Devcoderakash&repo=StockIN&theme=tokyonight&border_radius=8" alt="StockIN" />
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=Devcoderakash&repo=StockIN&bg_color=151527&border_color=34304B&title_color=C4B5FD&text_color=A1A1B5&icon_color=8B5CF6&border_radius=10" alt="StockIN Repository" />
         </a>
       </td>
       <td>
         <a href="https://github.com/Devcoderakash/apex">
-          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Devcoderakash&repo=apex&theme=tokyonight&border_radius=8" alt="apex" />
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=Devcoderakash&repo=apex&bg_color=151527&border_color=34304B&title_color=C4B5FD&text_color=A1A1B5&icon_color=8B5CF6&border_radius=10" alt="APEX 1.0 Repository" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://github.com/Devcoderakash/EV_range_prediction_model">
-          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Devcoderakash&repo=EV_range_prediction_model&theme=tokyonight&border_radius=8" alt="EV_range_prediction_model" />
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=Devcoderakash&repo=EV_range_prediction_model&bg_color=151527&border_color=34304B&title_color=C4B5FD&text_color=A1A1B5&icon_color=8B5CF6&border_radius=10" alt="EV Range Prediction Repository" />
         </a>
       </td>
       <td>
         <a href="https://github.com/Devcoderakash/Akash-bill-book">
-          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Devcoderakash&repo=Akash-bill-book&theme=tokyonight&border_radius=8" alt="Akash-bill-book" />
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=Devcoderakash&repo=Akash-bill-book&bg_color=151527&border_color=34304B&title_color=C4B5FD&text_color=A1A1B5&icon_color=8B5CF6&border_radius=10" alt="Akash Bill Book Repository" />
         </a>
       </td>
     </tr>
@@ -129,38 +330,115 @@ I am a Computer Science student specializing in **Artificial Intelligence & Data
 
 <br/>
 
-#### 📌 Project Highlights & Deployments
+#### 📌 Detailed Project Showcase
 
-| Project | Description | Tech Stack | Links |
+| Project | Description | Technology Stack | Deployment & Links |
 | :--- | :--- | :--- | :---: |
-| **[StockIN](https://github.com/Devcoderakash/StockIN)** | Enterprise inventory, CRM quotation, & GST tax invoicing suite monorepo. | React 19, TypeScript, Supabase, Tailwind CSS | [🌐 Live Demo](https://stock-in-frontend.vercel.app) • [💻 Repo](https://github.com/Devcoderakash/StockIN) |
-| **[APEX 1.0](https://github.com/Devcoderakash/apex)** | Hackathon web portal with team registration, Cashfree payment gateway, & admin portal. | TypeScript, React, Node.js | [🌐 Live Demo](https://borderland-interface.vercel.app) • [💻 Repo](https://github.com/Devcoderakash/apex) |
-| **[EV Range Prediction](https://github.com/Devcoderakash/EV_range_prediction_model)** | Production-grade ML regression system predicting electric vehicle driving range. | Python, MLflow, FastAPI, Docker | [💻 Repo](https://github.com/Devcoderakash/EV_range_prediction_model) |
-| **[Akash Bill Book](https://github.com/Devcoderakash/Akash-bill-book)** | Business billing application supporting GST & non-GST formatting with instant print layout. | TypeScript, React, Tailwind CSS | [🌐 Live Demo](https://akash-bill-book.vercel.app) • [💻 Repo](https://github.com/Devcoderakash/Akash-bill-book) |
-| **[Visit Reward Dashboard](https://github.com/Devcoderakash/visit-reward-dashboard)** | Interactive customer visit tracking & rewards analytics dashboard. | TypeScript, React | [🌐 Live Demo](https://visit-reward-dashboard.vercel.app) • [💻 Repo](https://github.com/Devcoderakash/visit-reward-dashboard) |
+| **[StockIN](https://github.com/Devcoderakash/StockIN)** | Enterprise inventory, CRM quotation, & GST tax invoicing suite monorepo. | `React 19` `TypeScript` `Supabase` `Tailwind CSS` | [🌐 Live Demo](https://stock-in-frontend.vercel.app) • [💻 Code](https://github.com/Devcoderakash/StockIN) |
+| **[APEX 1.0](https://github.com/Devcoderakash/apex)** | Hackathon web portal with team registration, Cashfree payment gateway, & admin portal. | `TypeScript` `React` `Node.js` `Express` | [🌐 Live Demo](https://borderland-interface.vercel.app) • [💻 Code](https://github.com/Devcoderakash/apex) |
+| **[EV Range Prediction](https://github.com/Devcoderakash/EV_range_prediction_model)** | Production-grade ML regression system predicting electric vehicle driving range. | `Python` `MLflow` `FastAPI` `Docker` | [💻 Code](https://github.com/Devcoderakash/EV_range_prediction_model) |
+| **[Akash Bill Book](https://github.com/Devcoderakash/Akash-bill-book)** | Business billing application supporting GST & non-GST formatting with instant print layout. | `TypeScript` `React` `Tailwind CSS` | [🌐 Live Demo](https://akash-bill-book.vercel.app) • [💻 Code](https://github.com/Devcoderakash/Akash-bill-book) |
+| **[Visit Reward Dashboard](https://github.com/Devcoderakash/visit-reward-dashboard)** | Interactive customer visit tracking & rewards analytics dashboard. | `TypeScript` `React` `CSS3` | [🌐 Live Demo](https://visit-reward-dashboard.vercel.app) • [💻 Code](https://github.com/Devcoderakash/visit-reward-dashboard) |
 
----
+<br/>
 
+<!-- ==================== GITHUB ANALYTICS ==================== -->
+<a name="github-analytics"></a>
 ### 📊 GitHub Analytics & Activity
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=Devcoderakash&theme=tokyonight&border_radius=8" alt="Akash's GitHub Streak" />
+  <!-- STREAK STATS -->
+  <a href="https://github.com/Devcoderakash">
+    <img src="https://streak-stats.demolab.com?user=Devcoderakash&background=151527&border=34304B&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=C4B5FD&sideNums=C4B5FD&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=A1A1B5&border_radius=10" alt="Akash's GitHub Streak" />
+  </a>
 
   <br/><br/>
 
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Devcoderakash&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=8" alt="Akash's GitHub Stats" />
+  <!-- MAIN STATS & TOP LANGUAGES -->
+  <a href="https://github.com/Devcoderakash">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=Devcoderakash&show_icons=true&bg_color=151527&border_color=34304B&title_color=C4B5FD&text_color=A1A1B5&icon_color=8B5CF6&border_radius=10" alt="Akash's GitHub Stats" />
+  </a>
   &nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Devcoderakash&theme=tokyonight&layout=compact&border_radius=8&langs_count=8" alt="Top Languages" />
+  <a href="https://github.com/Devcoderakash">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Devcoderakash&bg_color=151527&border_color=34304B&title_color=C4B5FD&text_color=A1A1B5&icon_color=8B5CF6&border_radius=10&layout=compact&langs_count=8" alt="Top Languages" />
+  </a>
 
   <br/><br/>
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <!-- DEVELOPER QUOTE -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 
 </div>
 
----
+<br/>
+
+<!-- ==================== ACHIEVEMENTS & EXPERIENCE ==================== -->
+<a name="achievements-experience"></a>
+### 🏆 Achievements & Experience
+
+<table width="100%" border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏅 GitHub & Technical Badges</h4>
+      <ul>
+        <li><b>Pull Shark:</b> Merged pull requests contributing to public repositories.</li>
+        <li><b>YOLO:</b> Merged pull requests without a code review.</li>
+        <li><b>Quickdraw:</b> Closed an issue or pull request within 5 minutes of opening.</li>
+        <li><b>LeetCode & HackerRank:</b> Actively solving Data Structures & Algorithms problems.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💼 Experience & Leadership</h4>
+      <ul>
+        <li><b>APEX 1.0 Hackathon:</b> Designed and deployed full-stack portal with Cashfree payment gateway & admin dashboards.</li>
+        <li><b>StockIN Monorepo:</b> Engineered enterprise inventory management and quotation suite with Supabase & React 19.</li>
+        <li><b>Academic Specialization:</b> B.Tech in Computer Science (Artificial Intelligence & Data Science).</li>
+        <li><b>Open Source:</b> Actively maintaining open source repos and developer utilities.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ==================== FOOTER ==================== -->
+<hr/>
 
 <div align="center">
-  <b>⭐ Thanks for visiting! Feel free to explore my repositories and connect with me. ⭐</b>
+
+  <p>
+    <b>"Thanks for visiting my profile! Let's build something impactful together."</b>
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/akash-lodhi-9a1219313/">
+      <img src="https://img.shields.io/badge/LinkedIn-151527?style=flat-square&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="mailto:lodhiakash286@gmail.com">
+      <img src="https://img.shields.io/badge/Email-151527?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://discord.gg/6ajeUsjR">
+      <img src="https://img.shields.io/badge/Discord-151527?style=flat-square&logo=discord&logoColor=5865F2" alt="Discord" />
+    </a>
+    &nbsp;
+    <a href="https://instagram.com/akaashxlodhii">
+      <img src="https://img.shields.io/badge/Instagram-151527?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram" />
+    </a>
+    &nbsp;
+    <a href="https://pin.it/67Bg5mR7u">
+      <img src="https://img.shields.io/badge/Pinterest-151527?style=flat-square&logo=pinterest&logoColor=E60023" alt="Pinterest" />
+    </a>
+  </p>
+
+  <p>
+    <a href="#overview">
+      <img src="https://img.shields.io/badge/%E2%AC%86%EF%B8%8F_Back_To_Top-080811?style=flat-square&color=8B5CF6" alt="Back to Top" />
+    </a>
+  </p>
+
+  <sub>© 2026 Akash Lodhi • Built with precision & passion</sub>
+
 </div>
